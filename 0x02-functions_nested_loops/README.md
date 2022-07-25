@@ -1,1 +1,1 @@
-this is the readme for C functions,nested,loops.
+this is the readme for 0x02 C functions,nested,loops.
