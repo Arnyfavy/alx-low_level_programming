@@ -1,9 +1,9 @@
+#include "main.h"
 #include <unistd.h>
-include "main.h"
 
 /**
  * main - check description
- * Description: prints the word putchar
+ * Description: prints the word putchar, followed by a new line.
  * Return: 0.
  */
 int main(void)

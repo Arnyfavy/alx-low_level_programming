@@ -10,7 +10,7 @@
 int _isalpha(int c)
 {
 char lower, upper;
-int islertter = 0;
+int isletter = 0;
 
 for (lower = 'a'; lower <= 'z'; lower++)
 {
