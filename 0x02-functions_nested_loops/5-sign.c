@@ -3,7 +3,7 @@
 /**
  * print_sign - check main
  * @n: An input number
- * Description: tohis function prints the sign of the number
+ * Description: function prints the sign of the number
  * Return: 1 if number is position, o if number is 0, or
  * -1 if number is negative
  */
@@ -19,12 +19,12 @@ _putchar('+');
 else if (n == 0)
 {
 value = 0;
-_putchar('0);
+_putchar('0');
 }
 else
 {
 value = -1;
-_putchar(' - ');
+_putchar('-');
 }
 
 return (value);
