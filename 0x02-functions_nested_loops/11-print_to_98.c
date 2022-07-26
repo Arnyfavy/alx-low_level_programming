@@ -18,7 +18,7 @@ for (; n <= 98; n++)
 
 if (n == 98)
 continue;
-print(", ");
+printf(", ");
 }
 printf("\n");
 }
