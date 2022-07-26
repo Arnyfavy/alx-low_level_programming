@@ -1,5 +1,5 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 
 /**
  * print_to_98 - check main
@@ -18,7 +18,7 @@ for (; n <= 98; n++)
 
 if (n == 98)
 continue;
-print(",");
+print(", ");
 }
 printf("\n");
 }
@@ -30,7 +30,7 @@ printf("%d", n);
 
 if (n == 98)
 continue;
-printf(",");
+printf(", ");
 }
 printf("\n");
 }
