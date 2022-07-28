@@ -53,3 +53,14 @@ _putchar(n / 10 % 10 + '0');
 _putchar(n % 10 + '0');
 }
 }
+
+/**
+ * main - check main.h
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+print_times_table(0);
+return (0);
+}
